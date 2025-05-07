@@ -1,2 +1,2 @@
 # Java
-Atividades desenvolvidas durante o curso de Java
+Exercícios de nivelamento Java
